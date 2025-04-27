@@ -3,7 +3,7 @@
 
 ### **3. Updated `CHANGELOG.md`**
 
-The `CHANGELOG.md` file documents the changes made for **Assignment 11** based on the previous Assignment 10.
+Below is the updated `CHANGELOG.md` file, reflecting the changes made for Assignment 11.
 
 ```markdown
 # Changelog
@@ -11,7 +11,7 @@ The `CHANGELOG.md` file documents the changes made for **Assignment 11** based o
 ## Version 1.0.0 (2025-04-20)
 - Implemented repository layer with in-memory storage.
 - Added generic repository interface (`Repository<T, ID>`).
-- Created entity-specific repositories (e.g., `BookRepository`).
+- Created entity-specific repositories (e.g., `ImageRepository`).
 - Integrated Factory Pattern for storage abstraction.
 - Wrote unit tests for in-memory repository implementations.
 - Updated GitHub Project Board with completed tasks.
@@ -37,25 +37,19 @@ The `CHANGELOG.md` file documents the changes made for **Assignment 11** based o
 - Updated GitHub repository with use case artifacts.
 
 ## Version 0.5.0 (2025-03-25)
-- Designed state transition and activity diagrams.
-- Traced diagrams to functional requirements and user stories.
-- Updated GitHub repository with workflow models.
-
-## Version 0.4.0 (2025-03-20)
 - Set up GitHub project templates and Kanban board.
 - Customized Kanban board for Agile workflows.
 - Linked issues from sprint plans.
 
-## Version 0.3.0 (2025-03-15)
+## Version 0.4.0 (2025-03-20)
 - Completed C4 architectural diagrams.
 - Updated system specification document.
 - Submitted initial GitHub repository.
 
-## Version 0.2.0 (2025-03-10)
+## Version 0.3.0 (2025-03-15)
 - Conducted stakeholder analysis.
 - Defined system requirements.
 - Updated GitHub repository with stakeholder documentation.
 
-## Version 0.1.0 (2025-03-05)
-- Initial project setup.
+## Version 0.2.0 (2025-03-10)
 - Created project README and directory structure.
