@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9280f259-c4f2-495e-b85f-505c9c70a2a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Nathan-van-der-Merwe-Assignment10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational_patterns/abstract_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational_patterns/builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational_patterns/factory_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational_patterns/prototype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational_patterns/simple_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational_patterns/singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/test_factory_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/test_simple_factory.py" afterDir="false" />
+    <list default="true" id="9280f259-c4f2-495e-b85f-505c9c70a2a1" name="Changes" comment="Assignment 10">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nateXza&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nateXza/nathan-vandermerwe-10-Assignment-10&quot;,
+    &quot;accountId&quot;: &quot;8283c311-2282-47ed-9f18-e60d3a7bc3b9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -51,8 +49,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -84,8 +84,18 @@
       <option name="presentableId" value="Default" />
       <updated>1745151905783</updated>
       <workItem from="1745151906916" duration="222000" />
-      <workItem from="1745152183061" duration="1452000" />
+      <workItem from="1745152183061" duration="2742000" />
+      <workItem from="1745776373136" duration="1096000" />
     </task>
+    <task id="LOCAL-00001" summary="Assignment 10">
+      <option name="closed" value="true" />
+      <created>1745153731125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745153731125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 10" />
   </component>
 </project>
